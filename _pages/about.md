@@ -1,50 +1,60 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+## About Me
+I am a 3rd-year Ph.D. candidate at [SMILE Lab](https://web.northeastern.edu/smilelab/) of Northeastern University (Boston, USA), advised by Prof. [Yun (Raymond) Fu](http://www1.ece.neu.edu/~yunfu/). Before that, I received my M.S. and B.E. degrees from Zhejiang University (Hangzhou, China) in 2019 and 2016, respectively, advised by Prof. [Haoji Hu](https://person.zju.edu.cn/en/huhaoji). During 2018 summer, I visited [VLLab](http://vllab.ucmerced.edu/) at University of California, Merced, working with Prof. [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/).
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am interested in a variety of topics in computer vision and machine learning. My research works orbit [efficient deep learning](https://github.com/MingSun-Tse/EfficientDNNs) (a.k.a. model compression), spanning from the most common image classifcation task ([GReg](https://github.com/MingSun-Tse/Regularization-Pruning), [Awesome-PaI](https://github.com/MingSun-Tse/Awesome-Pruning-at-Initialization), [TPP](https://github.com/MingSun-Tse/TPP)) to neural style transfer ([Collaborative-Distillation](https://github.com/MingSun-Tse/Collaborative-Distillation)), single image super-resolution ([ASSL](https://github.com/MingSun-Tse/ASSL), [SRP](https://github.com/MingSun-Tse/SRP)), and 3D novel view synthesis ([R2L](https://snap-research.github.io/R2L/)).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I do my best towards [easily reproducible](https://github.com/MingSun-Tse/smilelogging) research.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<!-- Here is my [CV](https://drive.google.com/file/d/17wU9IB2E4Jj_3p5EI50zksbuxRcm1Qmd/view?usp=sharing).-->
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## News
+- 2022/07: Two papers accepted by ECCV'22. 
+  - One about efficient deep learning (neural network pruning). We present the first filter pruning method that effectively maintains trainability during pruning *and* scales to large-scale deep neural networks. Code will be released <a href="https://github.com/MingSun-Tse/TPP">here</a>.
+  - The other about efficient novel view synthesis: R2L, *the first* residual MLP network to represent **neural light field (NeLF)** for efficient novel view synthesis. Check our <a href="https://snap-research.github.io/R2L/">webpage</a> and <a href="https://arxiv.org/abs/2203.17261">arxiv</a>!
+- 2022/04: We offer *the very first* survey paper on **Pruning at Initialization**, accepted by IJCAI'22 [<a href="https://arxiv.org/abs/2103.06460">Arxiv</a>] [<a href="https://github.com/MingSun-Tse/Awesome-Pruning-at-Initialization">Paper Collection</a>].
+- 2022/01: Two papers on neural network sparsity accepted by ICLR'22. One is about efficient image super-resolution, the other about lottery ticket hypothsis.
+- 2021/09: One paper on efficient image super-resolution is accepted by NeurIPS'21 as a <font color='red'>Spotlight</font> paper (<3%)! [<a href="https://github.com/MingSun-Tse/ASSL">PyTorch Code</a>]
+- 2021/06: Start summer internship at Snap Inc., working with the fantastic <a href="https://research.snap.com/team/category/creative-vision/">Creative Vision</a> team.
+- 2021/01: One paper about neural network pruning accepted by ICLR'21 as poster. [<a href="https://arxiv.org/abs/2012.09243">Arxiv</a>] [<a href="https://github.com/MingSun-Tse/Regularization-Pruning">PyTorch Code</a>]
+- 2020/06: Start summer internship at MERL, working with Dr. <a href="https://scholar.google.com/citations?user=h-V4QaMAAAAJ&hl=en&oi=ao" >Michael Jones</a> and Dr. <a href="http://suhaslohit.github.io">Suhas Lohit</a>.
+- 2020/02: One paper about model compression for ultra-resolution neural style transfer is accepted by CVPR 2020. Code released <a href="https://github.com/MingSun-Tse/Collaborative-Distillation">here</a>.
+- 2020/01: 2019 summer intern paper accepted by <a href="https://mlsys.org/">MLSys 2020</a>. (Project: <a href="https://github.com/alibaba/MNN">MNN</a> from Alibaba, one of the <i>fastest</i> mobile AI engines on this planet. Welcome trying!)
+- 2019/12: One journal paper accepted by <a href="https://signalprocessingsociety.org/publications-resources/ieee-journal-selected-topics-signal-processing">IEEE JSTSP</a>.
+- 2019/09: Join SMILE lab at NEU to pursue my Ph.D. degree.
+- 2019/07: Start summer internship at Taobao of Alibaba Group at Hangzhou, China.
+- 2019/06: Graduate with M.S. degree from Zhejiang University, Hangzhou, China.
+<!-- - 2019/04: One ICIP-19 paper and ICML-19 workshop paper accepted. -->
+<!-- - 2019/03: One IJCNN-19 paper accepted as oral. -->
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Publications
+<table style="border: none; border-collapse: collapse;" border="0">
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/SPP.jpeg" width="800" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Huan Wang</b>*, Qiming Zhang*, Yuehai Wang, Haoji Hu.
+    "Structured Probabilistic Pruning for Convolutional Neural Network Acceleration".
+    In <b>BMVC</b>, 2018 (<font color='red'>Oral</font>).<br>
+    <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://arxiv.org/abs/1709.06994">Arxiv</a>, <a href="http://bmvc2018.org/contents/papers/0870.pdf">Camera Ready</a></span> <br>
+    <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/MingSun-Tse/Caffe_IncReg">Caffe Code</a></span>
+  </td>
+</tr>
 
-**Markdown generator**
+</table>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Academic Services
+- Journal Reviewer: IJCV, TIP, TNNLS, JSTSP, Neurocomputing
+- Conference Reviewer: CVPR, ECCV, ICML, NeurIPS, ICLR, AAAI
