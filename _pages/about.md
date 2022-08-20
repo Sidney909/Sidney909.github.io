@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-I am a 3rd-year Ph.D. candidate at [SMILE Lab](https://web.northeastern.edu/smilelab/) of Northeastern University (Boston, USA), advised by Prof. [Yun (Raymond) Fu](http://www1.ece.neu.edu/~yunfu/). Before that, I received my M.S. and B.E. degrees from Zhejiang University (Hangzhou, China) in 2019 and 2016, respectively, advised by Prof. [Haoji Hu](https://person.zju.edu.cn/en/huhaoji). During 2018 summer, I visited [VLLab](http://vllab.ucmerced.edu/) at University of California, Merced, working with Prof. [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/).
+I am a 1st-year Ph.D. candidate at the Hong Kong University of Science and Technology  (HongKong, China), advised by Prof. [Xiaomeng Li](https://xmengli.github.io/). Before that, I received my M.S. degrees from Zhejiang University (Hangzhou, China) in 2022, advised by Prof. [Haoji Hu](https://person.zju.edu.cn/en/huhaoji).
 
-I am interested in a variety of topics in computer vision and machine learning. My research works orbit [efficient deep learning](https://github.com/MingSun-Tse/EfficientDNNs) (a.k.a. model compression), spanning from the most common image classifcation task ([GReg](https://github.com/MingSun-Tse/Regularization-Pruning), [Awesome-PaI](https://github.com/MingSun-Tse/Awesome-Pruning-at-Initialization), [TPP](https://github.com/MingSun-Tse/TPP)) to neural style transfer ([Collaborative-Distillation](https://github.com/MingSun-Tse/Collaborative-Distillation)), single image super-resolution ([ASSL](https://github.com/MingSun-Tse/ASSL), [SRP](https://github.com/MingSun-Tse/SRP)), and 3D novel view synthesis ([R2L](https://snap-research.github.io/R2L/)).
+I am interested in a variety of topics in computer vision and medical image processing.
 
-I do my best towards [easily reproducible](https://github.com/MingSun-Tse/smilelogging) research.
-
-<!-- Here is my [CV](https://drive.google.com/file/d/17wU9IB2E4Jj_3p5EI50zksbuxRcm1Qmd/view?usp=sharing).-->
 
 ## News
 - 2022/07: Two papers accepted by ECCV'22. 
