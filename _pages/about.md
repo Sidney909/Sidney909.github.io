@@ -43,6 +43,20 @@ I am interested in a variety of topics in computer vision and medical image proc
     <span><a href="https://github.com/SiLangWHL/vMF-OP">Code</a></span>
   </td>
 </tr>
-  
+ 
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/rch.png" width="800" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Hualiang Wang</b>, Huanpeng Chu, Siming Fu, et al.
+    "Renovate Yourself: Calibrating Feature Representation of Misclassified Pixels for Semantic Segmentation".
+    In <b>AAAI</b> 2022<br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/20145">Camera Ready</a></span><br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/VipaiLab/RCH">Code</a></span>
+  </td>
+</tr>
   
 </table>
