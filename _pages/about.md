@@ -27,5 +27,4 @@ I am interested in a variety of topics in computer vision and medical image proc
 
 ## Publications
 Todo
-  </td>
 
