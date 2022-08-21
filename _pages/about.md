@@ -15,7 +15,7 @@ I am interested in a variety of topics in computer vision and medical image proc
 
 ## News
 - 2022/08: Join Prof. [Li](https://xmengli.github.io/)'s lab at HKUST to pursue my Ph.D. degree.
-- 2022/07: One paper accepted by ECCV'22 as <font color='red'>Oral (2.7% acceptance rate)</font>. 
+- 2022/07: One paper accepted by ECCV'22 as <font color='red'>oral presentation (2.7% acceptance rate)</font>. 
 - 2022/07: One paper accepted by FL-IJCAI'22.
 - 2022/06: Graduate with M.S. degree from Zhejiang University, Hangzhou, China.
 - 2022/06: One paper accepted by ICIP'22.
