@@ -26,22 +26,6 @@ I am interested in a variety of topics in computer vision and medical image proc
 
 
 ## Publications
-<table style="border: none; border-collapse: collapse;" border="0">
-
-<tr style="border-collapse: separate; border-spacing:30em;">
-  <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/SPP.jpeg" width="800" />
+Todo
   </td>
-  <td style="border-collapse: collapse; border: none;">
-    <b>Huan Wang</b>*, Qiming Zhang*, Yuehai Wang, Haoji Hu.
-    "Structured Probabilistic Pruning for Convolutional Neural Network Acceleration".
-    In <b>BMVC</b>, 2018 (<font color='red'>Oral</font>).<br>
-    <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/abs/1709.06994">Arxiv</a>, <a href="http://bmvc2018.org/contents/papers/0870.pdf">Camera Ready</a></span> <br>
-    <img src="https://raw.githubusercontent.com/mingsun-tse/mingsun-tse.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/MingSun-Tse/Caffe_IncReg">Caffe Code</a></span>
-  </td>
-</tr>
-
-</table>
 
