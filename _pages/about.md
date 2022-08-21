@@ -20,7 +20,7 @@ I am interested in a variety of topics in computer vision and medical image proc
 - 2022/06: Graduate with M.S. degree from Zhejiang University, Hangzhou, China.
 - 2022/06: One paper accepted by ICIP'22.
 - 2022/03: Two papers accepted by MIDL'22. 
-- 2021/12: One paper accepted by AAAI'22. This is the first accepted paper for me.
+- 2021/12: One paper accepted by AAAI'22.
 - 2021/05: Start internship at DAMO Academy, Alibaba (Hangzhou, China), working with Jiashen Hua.
 - 2020/12: Start internship at SenseTime (Hangzhou, China), working with Chenguang Li.
 - 2019/09: Join Prof. [Hu](https://person.zju.edu.cn/en/huhaoji)'s lab at Zhejiang University to pursue M.S. Degree.
