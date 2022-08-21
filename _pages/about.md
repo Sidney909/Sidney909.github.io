@@ -38,7 +38,7 @@ I am interested in a variety of topics in computer vision and medical image proc
     "Towards Calibrated Hyper-sphere Representation via Distribution Overlap Coefficient for Long-tailed Learning".
     In <b>ECCV</b> 2022 (<font color='red'>Oral</font>).<br>
     <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/files/paper1.pdf">Paper</a></span><br>
+    <span><a href="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/files/vmf.pdf">Camera Ready</a></span><br>
     <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/SiLangWHL/vMF-OP">Code</a></span>
   </td>
