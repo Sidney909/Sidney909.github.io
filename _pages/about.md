@@ -34,7 +34,7 @@ I am interested in a variety of topics in computer vision and medical image proc
     <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/vmf.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
-    <b>Huan Wang</b>, Siming Fu, Xiaoxuan He, et al.
+    <b>Hualiang Wang</b>, Siming Fu, Xiaoxuan He, et al.
     "Towards Calibrated Hyper-sphere Representation via Distribution Overlap Coefficient for Long-tailed Learning".
     In <b>ECCV</b> 2022 (<font color='red'>Oral</font>).<br>
     <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
