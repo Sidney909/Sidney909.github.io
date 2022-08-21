@@ -27,5 +27,22 @@ I am interested in a variety of topics in computer vision and medical image proc
 
 
 ## Publications
-Todo
+<table style="border: none; border-collapse: collapse;" border="0">
 
+<tr style="border-collapse: separate; border-spacing:30em;">
+  <td style="border-collapse: collapse; border: none;">
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/vmf.png" width="800" />
+  </td>
+  <td style="border-collapse: collapse; border: none;">
+    <b>Huan Wang</b>, Siming Fu, Xiaoxuan He, et al.
+    "Towards Calibrated Hyper-sphere Representation via Distribution Overlap Coefficient for Long-tailed Learning".
+    In <b>ECCV</b> 2022 (<font color='red'>Oral</font>).<br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/files/paper1.pdf">Paper</a></span><br>
+    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
+    <span><a href="https://github.com/SiLangWHL/vMF-OP">Code</a></span>
+  </td>
+</tr>
+  
+  
+</table>
