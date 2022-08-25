@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+s# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hualiang Wang's Website"
+title                    : "Sidney's Website"
 title_separator          : "-"
-name                     : &name "Hualiang Wang"
+name                     : &name "楊斯宇/Siyu Yang (Sidney)"
 description              : &description "personal description"
-url                      : https://silangwhl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Sidney909.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SiLangWHL/silangwhl.github.io"
+repository               : "Sidney909/Sidney909.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hualiang Wang"
-  avatar           : "9A890ED8DE539F1960C794B69C6FA39C.jpg"
-  bio              : "Medical Image Processing, Computer Vision"
-  #location         : "Location"
+  name             : "楊斯宇/Siyu Yang (Sidney)"
+  avatar           : " "
+  bio              : "PhD in Advanced Materials"
+  location         : "Clear Water Bay, Sai Kung, Hong Kong"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=4lzd8NsAAAAJ"
-  email            : "hwangfd@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=lmaHEWsAAAAJ"
+  email            : "syangbx@connect.ust.hk"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SiLangWHL"
+  github           : "Sidney909"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  #linkedin         :
-  #orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/siyu-yeung-889636242/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1155-2436"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  #twitter          : "replacethistwitterhandle"
+  twitter          : #"https://twitter.com/SidneyYang17"
   vine             :
   weibo            :
   xing             :
