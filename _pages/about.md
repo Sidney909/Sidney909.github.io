@@ -37,7 +37,7 @@ I am interested in various topics about material science and the practical appli
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/Sidney909/sidney909.github.io/master/images/lyopub.png" width="600" />
+    <img src="https://raw.githubusercontent.com/Sidney909/sidney909.github.io/master/images/lyopub2.png" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Siyu Yang</b>, Weijia Wen.
