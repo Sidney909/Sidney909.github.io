@@ -42,25 +42,24 @@ I am interested in various topics about material science and the practical appli
   <td style="border-collapse: collapse; border: none;">
     <b>Siyu Yang</b>, Weijia Wen.
     "Lyophilized Ready-to-Use Mix for the Real-Time Polymerase Chain Reaction Diagnosis".
-    In *ACS Applied Bio Materials*, <b>2021</b>, *4* (5), 4354-4360.<br>
+    <i>ACS Applied Bio Materials</i>, <b>2021</b>, <i>4</i> (5), 4354-4360.<br>
     <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://pubs.acs.org/doi/10.1021/acsabm.1c00131">Arxiv</a></span><br>
+    <span><a href="https://pubs.acs.org/doi/10.1021/acsabm.1c00131">View the full text</a></span><br>
  
   </td>
 </tr>
  
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/rch.png" width="800" />
+    <img src="https://raw.githubusercontent.com/Sidney909/sidney909.github.io/master/images/orgpub.jpg" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">
-    <b>Hualiang Wang</b>, Huanpeng Chu, Siming Fu, et al.
-    "Renovate Yourself: Calibrating Feature Representation of Misclassified Pixels for Semantic Segmentation".
-    In <b>AAAI</b> 2022<br>
+    Weigang He, Jiadong Hu, Pengyan Wang, Le Chen, Kai Ji, <b>Siyu Yang</b>, Yin Li, Zhilong Xie, and Weiqing Xie.
+    "Highly Enantioselective Tandem Michael Addition of Tryptamine-Derived Oxindoles to Alkynones: Concise Synthesis of Strychnos Alkaloids".
+    <i>Angew Chem Int Ed Engl</i>, <b>2018</b>, <i>57</i> (14), 3806-3809.<br>
     <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://ojs.aaai.org/index.php/AAAI/article/view/20145">Camera Ready</a></span><br>
-    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/VipaiLab/RCH">Code</a></span>
+    <span><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ange.201800567">View the full text</a></span><br>
+
   </td>
 </tr>
   
