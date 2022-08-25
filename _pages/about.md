@@ -19,17 +19,17 @@ I am interested in various topics about material science and the practical appli
 
 
 
+## Education
+- **Sep. 2019 - Jul. 2023:** Ph.D. in Individualized Interdisciplinary Programs (Advanced Materials) of The Hong Kong University of Science and Technology
+- **Sep. 2015 – Jul. 2019:** B.Sc. in Applied Chemistry of Northwest A&F University. 
+
+
 ## News
-- 2022/08: Join Prof. [Li](https://xmengli.github.io/)'s lab at HKUST to pursue my Ph.D. degree.
-- 2022/07: One paper accepted by ECCV'22 as <font color='red'>oral presentation (2.7% acceptance rate)</font>. 
-- 2022/07: One paper accepted by FL-IJCAI'22.
-- 2022/06: Graduate with M.S. degree from Zhejiang University, Hangzhou, China.
-- 2022/06: One paper accepted by ICIP'22.
-- 2022/03: Two papers accepted by MIDL'22. 
-- 2021/12: One paper accepted by AAAI'22.
-- 2021/05: Start internship at DAMO Academy, Alibaba (Hangzhou, China).
-- 2020/12: Start internship at SenseTime (Hangzhou, China).
-- 2019/09: Join Prof. [Hu](https://person.zju.edu.cn/en/huhaoji)'s lab at Zhejiang University to pursue M.S. Degree.
+- 2021/05 A patent was accepted by CNIPA.
+- 2021/04 A paper was accepted by ACS Applied Bio Materials.
+- 2019/09 Join Professor Wen Weijia's research at HKUST.
+- 2019/07 Graduated from Northwest A&F University.
+
 
 
 ## Publications
@@ -64,3 +64,5 @@ I am interested in various topics about material science and the practical appli
 </tr>
   
 </table>
+
+
