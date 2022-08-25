@@ -37,14 +37,14 @@ I am interested in various topics about material science and the practical appli
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/vmf.png" width="800" />
+    <img src="https://raw.githubusercontent.com/Sidney909/sidney909.github.io/master/images/lyopub.png" width="800" />
   </td>
   <td style="border-collapse: collapse; border: none;">
-    <b>Hualiang Wang</b>, Siming Fu, Xiaoxuan He, et al.
-    "Towards Calibrated Hyper-sphere Representation via Distribution Overlap Coefficient for Long-tailed Learning".
-    In <b>ECCV</b> 2022 (<font color='red'>Oral</font>).<br>
+    <b>Siyu Yang</b>, Weijia Wen.
+    "Lyophilized Ready-to-Use Mix for the Real-Time Polymerase Chain Reaction Diagnosis".
+    In *ACS Applied Bio Materials*, <b>2021</b>, *4* (5), 4354-4360.<br>
     <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://arxiv.org/pdf/2208.10043.pdf">Arxiv</a></span><br>
+    <span><a href="https://pubs.acs.org/doi/10.1021/acsabm.1c00131">Arxiv</a></span><br>
     <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://github.com/SiLangWHL/vMF-OP">Code</a></span>
   </td>
