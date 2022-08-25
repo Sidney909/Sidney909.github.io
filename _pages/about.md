@@ -12,11 +12,10 @@ I am a year-4 Ph.D. student in the Individualized Interdisciplinary Program (IIP
 
 I joined [Professor Wen Weijia](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=weijia-wen-phwen)'s research group at HKUST in 2019 and focused on the new materials development and devices in biological applications. Since 2016, I have been the leader of a national scientific research project for three years, advised by [Professor Xie Weiqing](http://groupxie.com), during which time I gained a basic understanding of scientific thinking. I am skilled at combining academic theory and practice with creative ability and enthusiasm for applying technology to actual production. 
 
-For more details about me, see [my resume]("https://raw.githubusercontent.com/Sidney909/sidney909.github.io/master/files/sidneycv.pdf").
+I am interested in various topics about material science and the practical application of materials. For more details about me, see [my resume](https://raw.githubusercontent.com/Sidney909/sidney909.github.io/master/files/sidneycv.pdf).
 
 
 
-iii1
 
 
 
