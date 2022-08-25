@@ -37,7 +37,7 @@ I am interested in various topics about material science and the practical appli
 
 <tr style="border-collapse: separate; border-spacing:30em;">
   <td style="border-collapse: collapse; border: none;">
-    <img src="https://raw.githubusercontent.com/Sidney909/sidney909.github.io/master/images/lyopub.png" width="800" />
+    <img src="https://raw.githubusercontent.com/Sidney909/sidney909.github.io/master/images/lyopub.png" width="600" />
   </td>
   <td style="border-collapse: collapse; border: none;">
     <b>Siyu Yang</b>, Weijia Wen.
@@ -45,8 +45,7 @@ I am interested in various topics about material science and the practical appli
     In *ACS Applied Bio Materials*, <b>2021</b>, *4* (5), 4354-4360.<br>
     <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
     <span><a href="https://pubs.acs.org/doi/10.1021/acsabm.1c00131">Arxiv</a></span><br>
-    <img src="https://raw.githubusercontent.com/SiLangWHL/silangwhl.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-    <span><a href="https://github.com/SiLangWHL/vMF-OP">Code</a></span>
+ 
   </td>
 </tr>
  
